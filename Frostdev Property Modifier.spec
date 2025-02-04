@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['itemmod-improved.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],

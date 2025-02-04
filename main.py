@@ -347,9 +347,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     root.overrideredirect(False)
     root.title("Frostdev Item Modifier Widget")
-    root.iconbitmap("frost3.ico")
-    root.wm_title("Frostdev Item Modifier Widget")
-    root.wm_iconbitmap("frost3.ico")
     appearance_settings = load_appearance_settings()
     def save_credentials(hostname, port, username, password):
         with open(".credentials_cache", "w") as file:

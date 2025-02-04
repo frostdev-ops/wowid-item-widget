@@ -13,18 +13,7 @@ The `wowid-item-widget` is a graphical user interface (GUI) application designed
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/wowid-item-widget.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd wowid-item-widget
-    ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+See Releases
 
 ## Usage
 
